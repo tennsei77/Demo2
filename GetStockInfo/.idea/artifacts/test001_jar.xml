@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test001:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test001_jar</output-path>
+    <root id="archive" name="test001.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:/Xu/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GetStockInfo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
